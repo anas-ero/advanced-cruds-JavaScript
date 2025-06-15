@@ -23,7 +23,7 @@ A simple web app to manage employees using HTML, CSS, and JavaScript.
 2. Open `index.html` in your browser
 3. Start adding employees!
 
-## 📁 Storage
+## Storage
 
 All data is saved locally in your browser using `localStorage`. No databases issue are including !!
 
